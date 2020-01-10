@@ -55,7 +55,7 @@ then all strings will be considered as equal.
    similarity determines how much common letters should be available between two strings to be considered equal.
 
 2. what is the meaning of tolerance?
-   tolerance determines how much the same characters of two strings allowed to be in none-ordinal indices to be considered equal.
+   tolerance determines how much the same characters of two strings are allowed to be in none-ordinal indices to be considered equal.
 
 3. why is there two minSimilarity and two maxTolerance values (Long and Short)?
    it's a trick to get more reliable comparison on any string, because on short strings when you set the minSimilarity 
