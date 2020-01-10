@@ -7,7 +7,7 @@ first I used the DIFFERENCE(string1, string2) >= 4 function of SQL server but it
 when first name was "21" and second name was "21 jump street" the result contained two names whereas obviously they didn't even 
 similar. so the result set of such a query contained over 700 values that was very poor in this case.
 then I found a similar DIFFERENCE function for c# that was nearly the same as SQL version of that function. for example 
-it matched the similarity of "asdcdfsdfgdsgdg" and "asdewwetqwetrwe" as Perfect that is obviously not true.
+it matched the similarity of "asdcdfsdfgdsgdg" and "asdewwetqwetrwe" as perfect which is obviously not true.
 then I created a class library for this issue to get more efficient similarity between strings.
 
 # WHAT IS STRING COMPARE
