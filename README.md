@@ -65,3 +65,6 @@ then all strings will be considered as equal.
 * finally, it depends on your application and purpose of comparing strings in your app, and also on your data to be compared.
   so you should test this class with different tradeoff values to get the best and more efficient minSimilarity and maxTolerance 
   values for your case.
+
+# HOW TO TRY IT
+the solution contains a WinForm application which lets you test StringCompare with different tradeoff values.
