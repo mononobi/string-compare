@@ -47,7 +47,7 @@ then only strings that are exactly the same will be considered as equal.
 if you set minSimilarity = 0 && maxTolerance = 100
 then all strings will be considered as equal.
 
-* so its important to use the minSimilarity and maxTolerance together and not individually to get efficient results.
+* so it's important to use the minSimilarity and maxTolerance together and not individually to get efficient results.
 
 # FAQ
 
