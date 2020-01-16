@@ -1,5 +1,5 @@
 # StringCompare
-class library to compare strings in a relative way.
+Class library to compare strings in a relative way.
 
 # HISTORY
 I had written a code for my project to detect similar names approximately from database.
